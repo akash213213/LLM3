@@ -1,0 +1,6 @@
+streamlit
+psycopg2
+pinecone-client 
+pinecone-text 
+pinecone-notebooks
+huggingface_hub
