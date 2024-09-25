@@ -12,7 +12,7 @@ PGPASSWORD='akash213$'
 ## Title of application
 st.title("LLM Search Places")
 
-# Create a text input field
+## Create a text input field
 user_input = st.text_input("Enter places you have visited:")
         
         
