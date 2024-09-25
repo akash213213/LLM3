@@ -9,7 +9,7 @@ PGDATABASE_NAME='postgres_db'
 PGUSER_NAME='postgres'
 PGPASSWORD='akash213$'
 
-## Title of application
+### Title of application
 st.title("LLM Search Places")
 
 ## Create a text input field
