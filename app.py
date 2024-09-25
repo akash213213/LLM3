@@ -3,7 +3,7 @@ import psycopg2
 from psycopg2 import sql
 import pandas as pd
 
-## postgres 
+### postgres 
 PGEND_POINT='database-1.ch8kew8yio67.ap-south-1.rds.amazonaws.com'
 PGDATABASE_NAME='postgres_db'
 PGUSER_NAME='postgres'
